@@ -1,18 +1,10 @@
-## Getting Started
+ Calculadora de Rendimento Financeiro com Loop
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
+Este projeto é uma calculadora de rendimento para aplicações financeiras que permite ao usuário realizar múltiplos cálculos de montante (M) com capitalização simples ou composta, utilizando um loop para operações contínuas. O programa foi desenvolvido em Java e segue boas práticas de programação.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Funcionalidades
+- Cálculo de rendimento com **capitalização simples** e **composta**
+- Interface interativa via terminal
+- Loop para múltiplos cálculos sem reiniciar o programa
+- Formatação clara dos resultados financeiros
